@@ -85,9 +85,9 @@
 	</profiles>
 
 	<distributionManagement>
-		<Repository>
+		<repository>
 			<id>nexus-releases</id>
 			<url>http://23.96.5.186:8081/#browse/browse:maven_artifacts_jenkins/</url>
-		</Repository>
+		</repository>
 	</distributionManagement>	
 </project>
