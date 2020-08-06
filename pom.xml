@@ -86,11 +86,11 @@
 			</build>
 		</profile>
 	</profiles>
-	<distributionManagement>
-          <Repository>
-            <id>nexus-releases</id>
-            <url>http://23.96.5.186:8081/#browse/browse:maven_artifacts_jenkins/</url>
-          </Repository>
-       </distributionManagement>
 
+	<distributionManagement>
+		<Repository>
+			<id>nexus-releases</id>
+			<url>http://23.96.5.186:8081/#browse/browse:maven_artifacts_jenkins/</url>
+		</Repository>
+	</distributionManagement>	
 </project>
