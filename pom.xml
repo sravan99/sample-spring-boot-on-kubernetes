@@ -87,14 +87,10 @@
 		</profile>
 	</profiles>
 	<distributionManagement>
-        <Repository>
+          <Repository>
             <id>nexus-releases</id>
             <url>http://23.96.5.186:8081/#browse/browse:maven_artifacts_jenkins/</url>
-        </Repository>
-        <snapshotRepository>
-            <id>nexus-snapshots</id>
-            <url>http://23.96.5.186:8081/#browse/browse:maven_artifacts_jenkins/</url>
-        </snapshotRepository>
-    </distributionManagement>
+          </Repository>
+       </distributionManagement>
 
 </project>
