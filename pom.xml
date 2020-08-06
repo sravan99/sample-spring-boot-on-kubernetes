@@ -109,7 +109,7 @@
 	<distributionManagement>
 		<repository>
 			<id>nexus-releases</id>
-			<url>http://23.96.5.186:8081/service/rest/repository/browse/maven_artifacts_jenkins//</url>
+			<url>http://23.96.5.186:8081/service/rest/repository/browse/maven_artifacts_jenkins</url>
 		</repository>
 	</distributionManagement>	
 </project>
